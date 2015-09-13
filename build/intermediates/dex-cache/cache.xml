@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/classes-2365f20f584970067d3b2cbd6c223dff4b05c776.jar" />
+    </item>
+    <item
+        jar="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-a946c4b0fc3269248f41dcfa06cc293a70dee85c.jar" />
+    </item>
+    <item
+        jar="/Users/hengtan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-e817146b97c5fed28fea697fa53c3461b66e70c1.jar" />
+    </item>
+    <item
+        jar="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/classes-f2decd2c1b0330dce1f5cd0b9fb4f3d2505ffdab.jar" />
+    </item>
+    <item
+        jar="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/classes-60da02c3769c560339cbcbe6e3dd0304024a7ba5.jar" />
+    </item>
+    <item
+        jar="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/hengtan/Documents/google-services/android/gcm/app/build/intermediates/pre-dexed/debug/classes-7f8d15bcd8bb899e309a6c14172fd63784a6e47e.jar" />
+    </item>
+
+</items>
