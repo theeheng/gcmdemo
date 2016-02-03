@@ -1,8 +1,8 @@
 {
   "project_info":
   {
-    "project_id":"default-demo-app-5a4f9",
-    "project_number":"114999390245",
+    "project_id":"xxxxxx",
+    "project_number":"xxxxxxx",
     "name":"Default Demo App"
   },
   "client":
@@ -10,7 +10,7 @@
     {
       "client_info":
       {
-        "client_id":"android:gcm.play.android.samples.com.gcmquickstart",
+        "client_id":"xxxxx",
         "client_type":1,
         "android_client_info":
         {
